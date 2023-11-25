@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/@nikhilg00256066" target="blank"><img src="https://img.shields.io/twitter/follow/@nikhilg00256066?logo=twitter&style=for-the-badge" alt="@nikhilg00256066" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stake Web-Development**
+- 🌱 I’m currently learning -**Full Stake Web-Development**
 
-- 💬 Ask me about **Html,Css,JavaScript,React.Js,Front-end Development**
+- 💬 Ask me about -**Html,Css,JavaScript,React.Js,Front-end Development**
 
-- 📫 How to reach me **nikhil77.gautam@gmail.com**
+- 📫 How to reach me -**nikhil77.gautam@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ nikhil-gautam-69153b20a](www.linkedin.com/in/ nikhil-gautam-69153b20a)
+- 📄 Know about my experiences [www.linkedin.com/in/ nikhil-gautam-69153b20a]
 
-- ⚡ Fun fact **I think I'm funny.**
+- ⚡ Fun fact -**I think I'm funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

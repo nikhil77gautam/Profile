@@ -1,21 +1,21 @@
 
 <h1 align="center">Hi 👋, I'm Nikhil Gautam</h1>
 <h3 align="center">A Passionate Front-end Developer From India</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img align="right" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil77gautam&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil77gautam" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@nikhilg00256066" target="blank"><img src="https://img.shields.io/twitter/follow/@nikhilg00256066?logo=twitter&style=for-the-badge" alt="@nikhilg00256066" /></a> </p>
 
-- 🌱 I’m currently learning -**Full Stake Web-Development**
+- 🌱 I’m currently learning  -**Full Stake Web-Development**
 
-- 💬 Ask me about -**Html,Css,JavaScript,React.Js,Front-end Development**
+- 💬 Ask me about  -**Html, Css, JavaScript, React.Js, Front-end Development**
 
-- 📫 How to reach me -**nikhil77.gautam@gmail.com**
+- 📫 How to reach me  -**nikhil77.gautam@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ nikhil-gautam-69153b20a]
+- 📄 Know about my experiences - [www.linkedin.com/in/ nikhil-gautam-69153b20a]
 
-- ⚡ Fun fact -**I think I'm funny.**
+- ⚡ Fun fact  -**I think I'm funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

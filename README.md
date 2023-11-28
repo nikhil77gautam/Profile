@@ -13,7 +13,8 @@
 
 - 📫 How to reach me  -**nikhil77.gautam@gmail.com**
 
-- 📄 Know about my experiences - [www.linkedin.com/in/ nikhil-gautam-69153b20a]
+- 📄 Know about my experiences -
+    www.linkedin.com/in/ nikhil-gautam-69153b20a
 
 - ⚡ Fun fact  -**I think I'm funny.**
 

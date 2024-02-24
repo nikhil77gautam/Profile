@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Nikhil Gautam</h1>
 <h3 align="center">A Passionate Front-end Developer From India</h3>
+<h2 align="center">MERN- Full Stake Web Development || Front-end Developer || HTML || CSS || JavaScript || React.Js || SQL || Bootstrap || PHP and AWS Familiar with creating EC2 Instance|| IAM User & S3 Buckets</h2>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil77gautam&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil77gautam" /> </p>
@@ -9,12 +10,10 @@
 
 - 🌱 I’m currently learning  -**Full Stake Web-Development**
 
-- 💬 Ask me about  -**Html, Css, JavaScript, React.Js, Front-end Development**
-
+- 💬 Ask me about- **Html, Css, JavaScript, React.Js, Front-end Development, Node.Js, MongoDB, Express.Js**
+- 👨‍💻 All of my projects are available at- https://github.com/nikhil77gautam
 - 📫 How to reach me  -**nikhil77.gautam@gmail.com**
-
-- 📄 Know about my experiences -
-    www.linkedin.com/in/ nikhil-gautam-69153b20a
+- 📄 Know about my experiences- www.linkedin.com/in/nikhil-gautam-69153b20a
 
 - ⚡ Fun fact  -**I think I'm funny.**
 

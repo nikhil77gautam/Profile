@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at- https://github.com/nikhil77gautam
 - 📫 How to reach me  -**nikhil77.gautam@gmail.com**
 - 📄 Know about my experiences- www.linkedin.com/in/nikhil-gautam-69153b20a
-- 👨‍💻 Explore my portfolio-nikhil-portfolio-xyu4.vercel.app
+- 👨‍💻 Explore my portfolio- https://nikhil-portfolio-xyu4.vercel.app
 - ⚡ Fun fact  -**I think I'm funny.**
 
 <h3 align="left">Connect with me:</h3>

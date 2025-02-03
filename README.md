@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Nikhil Gautam</h1>
 <h3 align="center">A Passionate MERN- Full Stake Web Development From India</h3>
-<h4 align="center">MERN- Full Stake Web Development || Front-end Developer || HTML || CSS || JavaScript || React.Js || Node.Js || MongoDB || Express.Js || SQL || Bootstrap || AWS Familiar with creating EC2 Instance|| IAM User & S3 Buckets</h4>
+<h4 align="center">MERN- Full Stake Web Development || Front-end Developer || HTML || CSS || JavaScript || React.Js || Node.Js || MongoDB || Express.Js || Redux || Tailwind CSS || Bootstrap || AWS Familiar with creating EC2 Instance|| IAM User & S3 Buckets</h4>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil77gautam&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil77gautam" /> </p>
